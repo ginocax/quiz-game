@@ -1,4 +1,4 @@
-# quiz-game
+# project4-quiz-game-initial
 
 ## Project setup
 ```
